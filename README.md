@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harv2219
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate with our client
+- 🌱 I’m currently Laravel Web Developers
+- 💞️ I’m looking to collaborate with our client projects in web based using laravel framework to build your websites
 - 📫 How to reach me no problem just visit my online portfolio to help you harv2219.github.io
 
 <!---
